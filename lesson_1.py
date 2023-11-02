@@ -39,3 +39,5 @@ print(5+2)
 print("second work")
 
 print("some info")
+
+print("add new functianals in lesson_1 after clone")
